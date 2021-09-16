@@ -1,0 +1,26 @@
+https://www.youtube.com/watch?v=N8fQC89IhZA
+
+
+
+{
+    "name": "morpheus",
+    "job": "leader",
+    "id": "2",
+    "createdAt": "2021-09-16T08:02:55.323Z"
+}
+
+
+{
+    "name": "morpheus",
+    "job": "zion resident"
+}
+
+https://reqres.in/api/posts/
+https://reqres.in/api/users/
+https://reqres.in/api/users/5
+
+HTTP METHODS
+GET 
+PUT 
+POST
+ DELETE

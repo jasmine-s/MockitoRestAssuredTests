@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-16T12:25:14 IST" name="Default suite" finished-at="2021-09-16T12:25:26 IST" duration-ms="11671">
+    <groups>
+    </groups>
+    <test started-at="2021-09-16T12:25:14 IST" name="Default test" finished-at="2021-09-16T12:25:26 IST" duration-ms="11671">
+      <class name="com.sr.demo.RestAssuredTestCases">
+        <test-method signature="DeleteTest()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:14 IST" name="DeleteTest" finished-at="2021-09-16T12:25:18 IST" duration-ms="4094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTest -->
+        <test-method signature="getTest()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:18 IST" name="getTest" finished-at="2021-09-16T12:25:21 IST" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method signature="postRequest()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:21 IST" name="postRequest" finished-at="2021-09-16T12:25:22 IST" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+        <test-method signature="putTest()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:22 IST" name="putTest" finished-at="2021-09-16T12:25:23 IST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putTest -->
+        <test-method signature="test01()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:23 IST" name="test01" finished-at="2021-09-16T12:25:23 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:23 IST" name="test02" finished-at="2021-09-16T12:25:24 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test03()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:24 IST" name="test03" finished-at="2021-09-16T12:25:26 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method signature="test04()[pri:0, instance:com.sr.demo.RestAssuredTestCases@58d75e99]" started-at="2021-09-16T12:25:26 IST" name="test04" finished-at="2021-09-16T12:25:26 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+      </class> <!-- com.sr.demo.RestAssuredTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
